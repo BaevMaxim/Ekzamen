@@ -8,4 +8,3 @@ def max_value(a, b, c):
         return temp
     else:
         return c
-
